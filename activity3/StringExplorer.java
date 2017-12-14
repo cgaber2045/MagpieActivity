@@ -26,6 +26,7 @@ public class StringExplorer
         
         int secondParam = sample.indexOf("The", 3);
         System.out.println("sample.indexOf(\"slow\") = " + secondParam);
+        
     }
 
 }
