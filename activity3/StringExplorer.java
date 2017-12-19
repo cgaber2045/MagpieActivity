@@ -1,8 +1,8 @@
 /**
  * A program to allow students to try out different 
  * String methods. 
- * @author Laurie White
- * @version April 2012
+ * @author Chris Gaber
+ * @version December 2017
  */
 public class StringExplorer
 {
